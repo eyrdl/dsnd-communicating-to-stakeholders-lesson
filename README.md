@@ -30,6 +30,10 @@ There are 3 notebooks available here to showcase work related to the above quest
 
 There is an additional `.py` file that runs the necessary code to obtain the final model used to predict salary.
 
+Boothcamp : survey_results_public.csv and calculates variables via python scripts and finally vizualizes data. 
+HowToBreakIntoTheFiend : ./Part I/stackoverflow/survey_results_public.csv.
+Salary : ./survey_results_public.csv
+
 ## Results<a name="results"></a>
 
 The main findings of the code can be found at the post available [here](https://medium.com/@josh_2774/how-do-you-become-a-developer-5ef1c1c68711).
