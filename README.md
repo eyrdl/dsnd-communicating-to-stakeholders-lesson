@@ -34,6 +34,14 @@ Boothcamp : survey_results_public.csv and calculates variables via python script
 HowToBreakIntoTheFiend : ./Part I/stackoverflow/survey_results_public.csv.
 Salary : ./survey_results_public.csv
 
+BootcampStats.ipynb: An analysis of bootcamp grads in terms of job placement and salary.
+
+HowToBreakIntoTheField.ipynb: An analysis of how to become a software developer.
+
+Salary.ipynb: An analysis of the variables that are related to salary and job satisfaction.
+
+Salary_ML.py: A python script that builds a Linear Regression model to predict salary.
+
 ## Results<a name="results"></a>
 
 The main findings of the code can be found at the post available [here](https://medium.com/@josh_2774/how-do-you-become-a-developer-5ef1c1c68711).
